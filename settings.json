@@ -1,4 +1,5 @@
 {
+  "[css]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[html]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
@@ -6,7 +7,7 @@
   "[scss]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
-  "breadcrumbs.enabled": false,
+  "breadcrumbs.enabled": true,
   "diffEditor.ignoreTrimWhitespace": true,
   "diffEditor.renderSideBySide": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
@@ -70,7 +71,6 @@
   "javascript.validate.enable": false,
   "outline.problems.badges": false,
   "prettier.semi": false,
-  "prettier.singleQuote": true,
   "scm.diffDecorations": "none",
   "search.exclude": { "**/yarn.lock": true },
   "terminal.external.osxExec": "iTerm.app",
